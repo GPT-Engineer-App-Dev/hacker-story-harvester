@@ -25,7 +25,7 @@ const Index = () => {
 
   return (
     <div className="min-h-screen p-8 bg-gray-100">
-      <h1 className="text-4xl font-bold mb-8 text-center">Top 100 Hacker News Stories</h1>
+      <h1 className="text-4xl font-bold mb-8 text-center">Hacker News Top 100: Where Procrastination Meets Innovation</h1>
       <Input
         type="text"
         placeholder="Search stories..."
